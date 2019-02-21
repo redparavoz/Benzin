@@ -1,2 +1,2 @@
 # Benzin
-Gasoline calculation
+Gasoline calculation in CLI
